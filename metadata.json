@@ -1,0 +1,8 @@
+{
+  "name": "E.V. Telegram AI Assistant",
+  "description": "An advanced, self-hosted personal AI operating system for Telegram, with memory, auto-reply, and local PC control features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

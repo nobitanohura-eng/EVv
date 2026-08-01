@@ -1,0 +1,322 @@
+[
+  {
+    "role": "user",
+    "message": "Ok"
+  },
+  {
+    "role": "assistant",
+    "message": "Sahi hai."
+  },
+  {
+    "role": "user",
+    "message": "Hlw"
+  },
+  {
+    "role": "assistant",
+    "message": "Hlw Ayush!"
+  },
+  {
+    "role": "user",
+    "message": "Hum"
+  },
+  {
+    "role": "assistant",
+    "message": "Kya hua?"
+  },
+  {
+    "role": "user",
+    "message": "Kuch nahi"
+  },
+  {
+    "role": "assistant",
+    "message": "Theek hai. Bas aise hi message kiya?"
+  },
+  {
+    "role": "user",
+    "message": "Ok"
+  },
+  {
+    "role": "assistant",
+    "message": "Achha. Sab theek hai"
+  },
+  {
+    "role": "user",
+    "message": "Humm"
+  },
+  {
+    "role": "assistant",
+    "message": "Kya chal raha hai?"
+  },
+  {
+    "role": "user",
+    "message": "Kuch nahi"
+  },
+  {
+    "role": "assistant",
+    "message": "Theek hai. Free ho abhi?"
+  },
+  {
+    "role": "user",
+    "message": "Nahi kis liye"
+  },
+  {
+    "role": "assistant",
+    "message": "Bas aise hi. Socha agar free ho toh"
+  },
+  {
+    "role": "user",
+    "message": "Gand marna he kya"
+  },
+  {
+    "role": "assistant",
+    "message": "Kya bol raha hai?"
+  },
+  {
+    "role": "user",
+    "message": "Marvana he"
+  },
+  {
+    "role": "assistant",
+    "message": "Kya bol raha hai yaar?"
+  },
+  {
+    "role": "user",
+    "message": "🫂"
+  },
+  {
+    "role": "assistant",
+    "message": "🤗"
+  },
+  {
+    "role": "user",
+    "message": "Ye ladki ke chakar chor de"
+  },
+  {
+    "role": "user",
+    "message": "Kat jayega"
+  },
+  {
+    "role": "assistant",
+    "message": "Kya ho gaya bhai?"
+  },
+  {
+    "role": "assistant",
+    "message": " Itna gussa kyun?"
+  },
+  {
+    "role": "user",
+    "message": "Kyuki mera kata hai"
+  },
+  {
+    "role": "assistant",
+    "message": "Arre yaar, bura hua. Tu"
+  },
+  {
+    "role": "user",
+    "message": "Koi"
+  },
+  {
+    "role": "user",
+    "message": "Na"
+  },
+  {
+    "role": "assistant",
+    "message": "Achha theek hai. Phir bhi d"
+  },
+  {
+    "role": "assistant",
+    "message": "Koi na kaise? Tu bata,"
+  },
+  {
+    "role": "user",
+    "message": "Mai dumb tha"
+  },
+  {
+    "role": "assistant",
+    "message": "Nahi bhai, dumb nahi, trust kiya bas"
+  },
+  {
+    "role": "user",
+    "message": "Kya hai ye"
+  },
+  {
+    "role": "assistant",
+    "message": "Yehi ki sometimes we trust people who don't deserve it. It's not about being dumb, it's about being human."
+  },
+  {
+    "role": "user",
+    "message": "Kya kar rha hai"
+  },
+  {
+    "role": "assistant",
+    "message": "Kuch khaas nahi, bas normal. Tu bata"
+  },
+  {
+    "role": "user",
+    "message": "Reel"
+  },
+  {
+    "role": "assistant",
+    "message": "Achha, timepass."
+  },
+  {
+    "role": "user",
+    "message": "Ha"
+  },
+  {
+    "role": "assistant",
+    "message": "Hmm."
+  },
+  {
+    "role": "user",
+    "message": "Are uska har jagha per ak ak bf bana ke Rakhi thi"
+  },
+  {
+    "role": "assistant",
+    "message": "Damn, that's messed up. S"
+  },
+  {
+    "role": "user",
+    "message": "Delhi"
+  },
+  {
+    "role": "user",
+    "message": "Mai faridabad mai mere sai"
+  },
+  {
+    "role": "user",
+    "message": "And ak aur hime tha faridabad waha ak aur"
+  },
+  {
+    "role": "user",
+    "message": "Bhai happy girl friend day celebration kiya?"
+  },
+  {
+    "role": "user",
+    "message": "Soo much characterless"
+  },
+  {
+    "role": "assistant",
+    "message": "Bhai, ye toh next level characterless hai"
+  },
+  {
+    "role": "user",
+    "message": "And blind in money"
+  },
+  {
+    "role": "assistant",
+    "message": "Nahi yaar, kuch nahi kiya. Tumne?"
+  },
+  {
+    "role": "assistant",
+    "message": "Paisa hi sab kuch nahi hota yaar."
+  },
+  {
+    "role": "user",
+    "message": "Nahh"
+  },
+  {
+    "role": "assistant",
+    "message": "Acha hai."
+  },
+  {
+    "role": "user",
+    "message": "Bhai life ka bahot stress hai yrr"
+  },
+  {
+    "role": "assistant",
+    "message": "Haan yaar, samajh sakta hoon. Kya hua?"
+  },
+  {
+    "role": "user",
+    "message": "Career tension"
+  },
+  {
+    "role": "assistant",
+    "message": "Arre yaar, tension mat le. Sab theek ho jayega. Thoda break le."
+  },
+  {
+    "role": "user",
+    "message": "Aur tu kaisa"
+  },
+  {
+    "role": "user",
+    "message": "Aur tu kaisa"
+  },
+  {
+    "role": "assistant",
+    "message": "Main bhi theek hoon yaar. Bas thoda busy chal raha hai."
+  },
+  {
+    "role": "user",
+    "message": "Sahi hai"
+  },
+  {
+    "role": "assistant",
+    "message": "Haan. Aur bata, kya chal raha hai teri life mein?"
+  },
+  {
+    "role": "user",
+    "message": "Kuch n bss apne life busy"
+  },
+  {
+    "role": "assistant",
+    "message": "Chalta hai yaar. Sabka hi chal raha hai."
+  },
+  {
+    "role": "user",
+    "message": "Kabhi kabhi bandi ka yaad aa jata h"
+  },
+  {
+    "role": "assistant",
+    "message": "Haha, samajh sakta hoon. Yaar, ye toh hota hi hai."
+  },
+  {
+    "role": "user",
+    "message": "Ha"
+  },
+  {
+    "role": "assistant",
+    "message": "Koi nahi, sab theek ho jayega. Time sab theek kar deta hai."
+  },
+  {
+    "role": "user",
+    "message": "Hope so bro"
+  },
+  {
+    "role": "assistant",
+    "message": "Haan bhai. Hope for the best."
+  },
+  {
+    "role": "user",
+    "message": "Hey ev open calculator on my pc"
+  },
+  {
+    "role": "assistant",
+    "message": "⚠️ Command execution failed: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 52.240831372s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"52s\"}]}}"
+  },
+  {
+    "role": "user",
+    "message": "Open calculator on my pc"
+  },
+  {
+    "role": "assistant",
+    "message": "⚠️ Command execution failed: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 31.682352688s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.5-flash\"},\"quotaValue\":\"20\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"31s\"}]}}"
+  },
+  {
+    "role": "user",
+    "message": "Hey ev open calculator on my pc"
+  },
+  {
+    "role": "user",
+    "message": "Hey ev open calculator on my pc"
+  },
+  {
+    "role": "user",
+    "message": "Hey ev open calculator on my pc"
+  },
+  {
+    "role": "user",
+    "message": "Open calculator"
+  }
+]
