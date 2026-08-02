@@ -1,20 +1,21 @@
-FROM node:22-slim
+FROM node:20-slim
 
-# Create app directory
+# Install python3, make, g++ needed for better-sqlite3 compilation
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    python3 \
+    make \
+    g++ \
+    sqlite3 \
+    && rm -rf /var/lib/apt/lists/*
+
 WORKDIR /app
+RUN mkdir -p /app/data
 
-# Install app dependencies
 COPY package.json package-lock.json* ./
 RUN npm install
 
-# Bundle app source
 COPY . .
-
-# Build the application
 RUN npm run build
 
-# Expose port 3000
 EXPOSE 3000
-
-# Start the application
 CMD ["npm", "start"]
