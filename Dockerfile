@@ -1,4 +1,4 @@
-FROM node:20-slim
+FROM node:22-slim
 
 # Install python3, make, g++ needed for better-sqlite3 compilation
 RUN apt-get update && apt-get install -y --no-install-recommends \
