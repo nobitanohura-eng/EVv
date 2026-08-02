@@ -1,11 +1,17 @@
 services:
   - type: web
-    name: telegram-auto-responder
-    env: node
-    buildCommand: npm install && npm run build
-    startCommand: npm start
+    name: evv-telegram-bot
+    env: docker
+    plan: free
+    dockerfilePath: Dockerfile
     envVars:
       - key: NODE_ENV
         value: production
+      - key: TELEGRAM_API_ID
+        value: "38064077"
+      - key: TELEGRAM_API_HASH
+        value: "b22306597ec1335c561ed20cea1d9102"
       - key: GEMINI_API_KEY
-        sync: false
+        value: "AQ.Ab8RN6LGdMY73lGWAx6Ga5HYMioHzIadRfRveZ311lpwrGUCYQ"
+      - key: GROQ_API_KEY
+        value: "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"
